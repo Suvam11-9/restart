@@ -1,0 +1,28 @@
+h3 {
+    color: pink;
+    font-family: 'Courier New';
+}
+
+/* External CSS */
+p {
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+}
+
+#myid {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.myclass {
+    color: green;
+}
+
+h4, h5 {
+    font-family: Cambria;
+}
+
+body {
+    background-color: lightgrey;
+}
